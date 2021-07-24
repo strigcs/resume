@@ -1,0 +1,149 @@
+ .con{
+    margin-left: 700px;
+ }
+ .ah1{
+    margin-left: 700px;
+ }
+ .chel{
+    width: 800px;
+    height: 500px;
+}
+ .mien{
+    width:585px;
+ }
+ .frea{
+    width: 900px;
+    height: 400px;
+ }
+ .compu{
+    width: 600px;
+    margin-left: 300px;
+ }
+ .vk{
+    margin-left: 10px;
+ }
+ .insta{
+    margin-left: 10px;
+ }
+ .cont{
+    margin-left: 750px;
+ }
+ .butt{
+     margin-left: 700px;
+     font-size: 44px;
+ }
+ .batu{
+     background-color: rgb(0, 127, 212);
+     color: white;
+ }
+ .batu1{
+    background-color: rgb(0, 127, 212);
+    color: white;
+    width: 446px;
+}
+ .cod{
+     width: 870px;
+     height: 400px;
+     margin-top: 5px;
+ }
+ .butt1{
+    margin-left: 700px;
+    font-size: 44px;
+ }
+ .aa{
+     font-size: 175px;
+ }
+ .batu3{
+    background-color: rgb(0, 127, 212);
+    color: white;
+    font-size: 56px;
+ }
+@media only screen and (max-width: 970px) {
+    .dav{
+        font-size: 13px;
+    }
+    .con{
+        margin-left: 170px;
+    }
+    .ah1{
+        margin-left: 170px;
+    }
+    .chel{
+        width: 600px;
+        height: 450px;
+    }
+    .mien{
+        width: 400px;
+    }
+    .frea{
+        width: 600px;
+        height: 300px;
+    }
+    .compu{
+        width: 600px;
+        margin-left: 100px;
+     }
+    .cont{
+        margin-left: 200px;
+    }
+    .butt{
+        margin-left: 170px;
+    }
+    .cod{
+        width: 600px;
+        height: 300px;
+    }
+    .butt1{
+        margin-left: 170px;
+    }
+}
+@media only screen and (max-width: 770px) {
+    .con{
+        margin-left: 0px;
+        width: 360px;
+        height: 460px;
+    }
+    .ah1{
+        margin-left: 0px;
+    }
+    .chel{
+        width: 336px;
+        height: 200px;
+      }
+    .mien{
+        width: 335px;
+    }
+    .ah2{
+        font-size: 22px;
+    }
+    .frea{
+        width: 336px;
+        height: 150px;
+    }
+    .compu{
+        width: 340px;
+        margin-left: 0px;
+     }
+    .cont{
+        margin-left: 0px;
+    }
+    .butt{
+        margin-left: 0px;
+        font-size: 36px;
+    }
+    .cod{
+        width: 336px;
+        height: 200px;
+    }
+    .butt1{
+        margin-left: 0px;
+        font-size: 36px;
+    }
+    .batu1{
+        width: 360px;
+    }
+    .batu3{
+        font-size: 80px;
+    }
+}
+ 
